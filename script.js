@@ -1,3 +1,6 @@
+
+
+
 // Assignment Code
 
 
@@ -50,16 +53,3 @@ for (let i = 0; i < length; i++) {
   }
 return password;
 }
-
-// Write password to the #password input
-//changed password to password2
-function writePassword() {
-  var password2 = generatePassword();
-  var passwordText = document.querySelector("#password");
-
-  passwordText.value = password2;
-
-}
-
-// Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
