@@ -42,7 +42,6 @@ var useNumber = window.prompt('Do you want numbers? (Y/N)').toUpperCase();
 if (useNumber === 'Y') {
 allowedChars = allowedChars.concat(number)
 }
-
 //added for loop
 for (let i = 0; i < length; i++) {
   const element = allowedChars[Math.floor(Math.random()*allowedChars.length)];
