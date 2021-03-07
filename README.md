@@ -17,23 +17,23 @@ Attempted to make lots of commits and pushed to github.
 ## Original Code
 
 ### Original Html
-![Original HTML](assets/images/htmlthumb.JPG)
+![Original HTML](./assets/images/htmlthumb.JPG)
 
 ### Original CSS
-![Original CSS](assets/images/CSSthumb.JPG)
+![Original CSS](./assets/images/CSSthumb.JPG)
 
 ### Original JS
-![Original JS](assets/images/JSthumb2.JPG)
+![Original JS](./assets/images/JSthumb2.JPG)
 
 ### Altered JS
-![Altered JS](assets/images/JSthumb.JPG)
+![Altered JS](./assets/images/JSthumb.JPG)
 
 
 ## What final product was supposed to look like
-![original example](assets/images/03-javascript-homework-demo.PNG)
+![original example](./assets/images/03-javascript-homework-demo.PNG)
 
 
 ## Completion of Secure password screenshots
-![screenshot](assets/images/passwordscreenshot.JPG)
+![screenshot](./assets/images/passwordscreenshot.JPG)
 
-![screenshot](assets/images/passwordscreenshot1.JPG)
+![screenshot](./assets/images/passwordscreenshot1.JPG)
