@@ -15,20 +15,20 @@ Attempted to make lots of commits and pushed to github.
 * Java Script
 
 ## Original Code
-![screenshot](/assets/images/htmlthumb.JPG)
+![screenshot](/assets/images/htmlthumb.jpg)
 
 ### Original CSS
-![screenshot](/assets/images/CSSthumb.JPG)
+![screenshot](/assets/images/CSSthumb.jpg)
 
 ### Original JS
-![screenshot](/assets/images/JSthumb2.JPG)
+![screenshot](/assets/images/JSthumb2.jpg)
 
 ### Altered JS
-![screenshot](/assets/images/JSthumb.JPG)
+![screenshot](/assets/images/JSthumb.jpg)
 
 
 ## What final product was supposed to look like
-![screenshot](/assets/images/03-javascript-homework-demo.PNG)
+![screenshot](/assets/images/03-javascript-homework-demo.png)
 
 
 ## Completion of Secure password screenshots
