@@ -30,4 +30,10 @@ Attempted to make lots of commits and pushed to github.
 
 
 ## What final product was supposed to look like
-![original example](./assets/images/01-html-css-git-homework-demo.png)
+![original example](assets\images\03-javascript-homework-demo.png)
+
+
+## Completion of Secure password screenshots
+![screenshot](assets\images\passwordscreenshot.JPG)
+
+![screenshot](assets\images\passwordscreenshot1.JPG)
