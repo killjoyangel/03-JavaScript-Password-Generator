@@ -1,7 +1,7 @@
 # 03-JavaScript-Password-Generator
 
 ## Introduction:
-In this repo our job was to pretend that we were employee's with access to sensitive data. We were given starter Java Script code to modify to randomly generate a password that met certain criteriaa. We had to create a strong password that provides greater security. We did this through Java Script
+In this repo our job was to pretend that we were employee's with access to sensitive data. We were given starter Java Script code to modify to randomly generate a password that met certain criteria. We had to create a strong password that provides greater security. We did this through Java Script
 
 We created a static website that you can view on this link: [03-JavaScript-Password-Generator
 
