@@ -36,4 +36,4 @@ Attempted to make lots of commits and pushed to github.
 
 ![screenshot](/assets/images/passwordscreenshot1.JPG)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)G
